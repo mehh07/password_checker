@@ -1,0 +1,10 @@
+password
+admin
+welcome
+qwerty
+hello
+test
+user
+abc
+love
+login
